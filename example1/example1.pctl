@@ -1,0 +1,6 @@
+const int t1=0;
+const int t2=1000;
+
+P=? [!(F[t1, t2] s=1)]
+R=? [ F (s=1)]
+S=? [(s=0)]
